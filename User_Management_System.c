@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 2
+#define SIZE 5
 
 struct user_info {
     int id;
