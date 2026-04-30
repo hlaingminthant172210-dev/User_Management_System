@@ -6,11 +6,11 @@ This project uses **struct and array** to store user data in memory.
 
 # Features
 
-* Add user (one by one)
-* View all users
-* Update user information
+* Create user 
+* Read all users
+* Update user 
 * Delete user
-* Input with spaces (name, address supported)
+* Exit
 
 
 # How It Works
@@ -33,13 +33,13 @@ struct user_info {
 
 # How to Run
 
-## Compile:
+  ## Compile:
 
-gcc User_Management_System.c -o app
+  gcc User_Management_System.c -o app
 
-## Run:
+  ## Run:
 
-./app
+  ./app
 
 
 # Example Menu
